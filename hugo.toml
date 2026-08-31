@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/ololol125/paper-reviews/'
+locale = 'en-us'
+title = 'PAPER-REVIEWS'
+theme = "PaperMod"
