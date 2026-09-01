@@ -1,7 +1,7 @@
 ---
 title: "[논문 리뷰] SAM: Segment Anything"
 venue: ICCV (2023)
-draft: true
+draft: false
 tags: ["paper-review", "image-segmentation"]
 categories: ["Paper Review"]
 summary: "prompt encoder를 통해 모델이 points나 bbox, mask, texts와 같은 prompt를 입력받아 학습하고 학습에 사용되지 않은 새로운 이미지나 테스크에 대해 zero-shot performance를 측정함. 특히 데이터 구축과 모델 학습이 한 사이클이 되어 함께 발전되는 Data engine도 인상적임"
