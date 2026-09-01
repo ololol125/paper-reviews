@@ -1,3 +1,2 @@
-   public/
-   static/
-   .hugo_build.lock
+public/
+.hugo_build.lock
